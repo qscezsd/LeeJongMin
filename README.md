@@ -1,0 +1,2 @@
+# LeeJongMin
+intern application
